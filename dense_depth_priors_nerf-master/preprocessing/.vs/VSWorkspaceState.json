@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\camera\\include",
+    "\\camera\\src",
+    "\\io_colmap",
+    "\\io_colmap\\include",
+    "\\io_colmap\\src"
+  ],
+  "SelectedNode": "\\extract_scannet_scene.cpp",
+  "PreviewInSolutionExplorer": false
+}
